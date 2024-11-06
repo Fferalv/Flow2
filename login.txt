@@ -2,4 +2,6 @@ Hola loko
 
 hola 21
 
-hola 31
+hola 31:
+
+arreglo1
